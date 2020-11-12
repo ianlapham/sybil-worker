@@ -1,0 +1,10 @@
+name = "sybil-verifier"
+type = "webpack"
+account_id = "28e5ea044cf6c5d4863b0664da8e41d0"
+workers_dev = true
+route = ""
+zone_id = ""
+vars = { TWITTER_BEARER = "AAAAAAAAAAAAAAAAAAAAADGmIQEAAAAAWqhyzrHa81%2Be42cTLfBqqIjW%2FNI%3DVYuzy1IWwnkoVMNxFecT7YYhbL9xh1lN2fykhRlZIoJbnV9qPx" }
+kv_namespaces = [
+  { binding = "KEYSTORE", id = "5a6eb8fe96ac4d838a3ca0f0d2d76210", preview_id = "5a6eb8fe96ac4d838a3ca0f0d2d76210" },
+]
