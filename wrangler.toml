@@ -1,0 +1,6 @@
+name = "sybil-verifier"
+type = "webpack"
+account_id = "28e5ea044cf6c5d4863b0664da8e41d0"
+workers_dev = true
+route = ""
+zone_id = ""
